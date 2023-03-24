@@ -1,4 +1,4 @@
-# Setting Process for Typescript Backend Project by yourself
+# Setting Process for Typescript Backend Project
 
 ## Step 1
 
